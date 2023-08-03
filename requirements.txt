@@ -1,0 +1,10 @@
+asgiref==3.7.2
+Django==3.2.20
+djangorestframework==3.14.0
+environ==1.0
+pytz==2023.3
+sqlparse==0.4.4
+typing_extensions==4.7.1
+psycopg2==2.9.6
+django-environ==0.10.0
+

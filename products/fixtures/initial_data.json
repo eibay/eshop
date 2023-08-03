@@ -1,0 +1,46 @@
+[
+  {
+    "model": "products.Product",
+    "fields": {
+      "name": "Pineapple",
+      "sku": "PIN10001",
+      "price": "100",
+      "description": "Best pineapple in town!",
+      "quantity": "100",
+      "status": true
+    }
+  },
+  {
+    "model": "products.Product",
+    "fields": {
+      "name": "Broccoli",
+      "sku": "BRO10001",
+      "price": "200",
+      "description": "Nutritious brocolli, eat more!",
+      "quantity": "50",
+      "status": false
+    }
+  },
+  {
+    "model": "products.Product",
+    "fields": {
+      "name": "Chocolate",
+      "sku": "CHO10001",
+      "price": "10",
+      "description": "Eat less, unhealthy!",
+      "quantity": "20",
+      "status": false
+    }
+  },
+  {
+    "model": "products.Product",
+    "fields": {
+      "name": "Milk",
+      "sku": "MIL10001",
+      "price": "95",
+      "description": "Better milk from goat!",
+      "quantity": "33",
+      "status": true
+    }
+  }
+]
